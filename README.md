@@ -18,7 +18,7 @@ sorting in python
 #Melakuan sorting pada sub daftar berisi angka dimana angka index pertama dalam sublist menjadi urutannya dengan ascending.
 
 #Percobaan 6 - bubble_sort_flag : 
-#Melakukan sorting pada daftar berisi angka 
+#Melakukan sorting pada daftar berisi angka. Flag disini digunakan untuk menjadi tanda bahwa angka tersebut bertukar.
 
 #Percobaan 7 - bubble_sort_iteration :
 #Melakukan sorting beserta iterasinya pada daftar berisi angka. Dengan menambahkan variable count untuk menjadi penghitung iterasi.
@@ -39,7 +39,7 @@ sorting in python
 #Melakuan sorting pada sub daftar menggunakan selection sort berisi angka dimana angka index pertama dalam sublist menjadi urutannya dengan ascending.
 
 #Percobaan 13 - selection_sort_flag :
-#Melakukan sorting pada daftar angka menggunakan selection sort
+#Melakukan sorting pada daftar angka menggunakan selection sort. Flag disini digunakan untuk menjadi tanda bahwa angka tersebut bertukar. 
 
 #Percobaan 14 - selection_sort_iteration :
 #Melakukan sorting menggunakan selection sort pada daftar angka sekalian dengan menghitung iterasi yang terjadi. Nilainya sama dengan cara bubble sort.
@@ -59,3 +59,5 @@ seperti percobaan 2
 
 #Latihan 5 - selection_sort_footbal :
 #Melakukan sorting pada daftar jummlah gol menggunakan selection sort secara Descending. Praktik ini mirip seperti latihan 3. Dimana index yang digunakan kita ubah dari 0 menjadi index 2 dari list. Alasan index 2 karena elemen jumlah gol berada di index ke 2.
+
+#Mohon maaf bila ada kesalahan, barangkali ada saran & kritik bisa langsung saja :D
