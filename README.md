@@ -2,33 +2,33 @@
 sorting in python 
 
 
-#Percobaan 1 - bubble_sort_number_asc : Melakukan sorting pada daftar berisi angka dengan ascending. 
+1 - bubble_sort_number_asc : Melakukan sorting pada daftar berisi angka dengan ascending. 
 
-#Percobaan 2 - bubble_sort_string_asc : Melakukan sorting pada daftar berisi string (" ") dengan ascending.
+2 - bubble_sort_string_asc : Melakukan sorting pada daftar berisi string (" ") dengan ascending.
 
-#Percobaan 3 - bubble_sort_number_desc : Melakukan sorting pada daftar berisi angka dengan descending.
+3 - bubble_sort_number_desc : Melakukan sorting pada daftar berisi angka dengan descending.
 
-#Percobaan 4 - bubble_sort_string_desc : Melakukan sorting pada daftar berisi string (" ") dengan descending.
+4 - bubble_sort_string_desc : Melakukan sorting pada daftar berisi string (" ") dengan descending.
 
-#Percobaan 5 - bubble_sort_sublist : Melakukan sorting pada sub daftar berisi angka dimana angka index pertama dalam sublist menjadi urutannya dengan ascending.
+5 - bubble_sort_sublist : Melakukan sorting pada sub daftar berisi angka dimana angka index pertama dalam sublist menjadi urutannya dengan ascending.
 
-#Percobaan 6 - bubble_sort_flag : Melakukan sorting pada daftar berisi angka. Flag disini digunakan untuk menjadi tanda bahwa angka tersebut bertukar.
+6 - bubble_sort_flag : Melakukan sorting pada daftar berisi angka. Flag disini digunakan untuk menjadi tanda bahwa angka tersebut bertukar.
 
-#Percobaan 7 - bubble_sort_iteration : Melakukan sorting beserta iterasinya pada daftar berisi angka. Dengan menambahkan variable count untuk menjadi penghitung iterasi.
+7 - bubble_sort_iteration : Melakukan sorting beserta iterasinya pada daftar berisi angka. Dengan menambahkan variable count untuk menjadi penghitung iterasi.
 
-#Percobaan 8 - selection_sort_number_asc : Melakukan sorting menggunakan selection sort pada daftar berisi angka dengan ascending.
+8 - selection_sort_number_asc : Melakukan sorting menggunakan selection sort pada daftar berisi angka dengan ascending.
 
-#Percobaan 9 - selection_sort_string.asc : Melakukan sorting menggunakan selection sort pada daftar berisi string (" ") dengan ascending.
+9 - selection_sort_string.asc : Melakukan sorting menggunakan selection sort pada daftar berisi string (" ") dengan ascending.
 
-#Percobaan 10 - selection_sort_number_desc : Melakukan sorting menggunakan selection sort pada daftar berisi angka dengan descending.
+10 - selection_sort_number_desc : Melakukan sorting menggunakan selection sort pada daftar berisi angka dengan descending.
 
-#Percobaan 11 - selection_sort_string_asc : Melakukan sorting menggunakan selection sort pada daftar berisi string (" ") dengan descending.
+11 - selection_sort_string_asc : Melakukan sorting menggunakan selection sort pada daftar berisi string (" ") dengan descending.
 
-#Percobaan 12 - selection_sort_sublist : Melakuan sorting pada sub daftar menggunakan selection sort berisi angka dimana angka index pertama dalam sublist menjadi urutannya dengan ascending.
+12 - selection_sort_sublist : Melakuan sorting pada sub daftar menggunakan selection sort berisi angka dimana angka index pertama dalam sublist menjadi urutannya dengan ascending.
 
-#Percobaan 13 - selection_sort_flag : Melakukan sorting pada daftar angka menggunakan selection sort. Flag disini digunakan untuk menjadi tanda bahwa angka tersebut bertukar. 
+13 - selection_sort_flag : Melakukan sorting pada daftar angka menggunakan selection sort. Flag disini digunakan untuk menjadi tanda bahwa angka tersebut bertukar. 
 
-#Percobaan 14 - selection_sort_iteration : Melakukan sorting menggunakan selection sort pada daftar angka sekalian dengan menghitung iterasi yang terjadi. Nilainya sama dengan cara bubble sort.
+14 - selection_sort_iteration : Melakukan sorting menggunakan selection sort pada daftar angka sekalian dengan menghitung iterasi yang terjadi. Nilainya sama dengan cara bubble sort.
 
 #Latihan 1 - bubble_sort_exam : Melakukan sorting sederhana menggunakan bubble sort, contohnya bisa seperti percobaan 1
 
